@@ -9,7 +9,7 @@
 
  - Dithering allows to enhance quality of quantized images in post-processing during transmission and is used extensively in processing of both digital audio and video data.
 
- - One of the earliest, and still one of the most popular, is the [Floyd–Steinberg dithering] (https://en.wikipedia.org/wiki/Dither#Algorithms), algorithm, which was developed in 1975. One of the strengths of this algorithm is that it minimizes visual artifacts through an error-diffusion process; error-diffusion algorithms typically produce images that more closely represent the original than simpler dithering algorithms.
+ - One of the earliest, and still one of the most popular, is the [Floyd–Steinberg dithering](https://en.wikipedia.org/wiki/Dither#Algorithms), algorithm, which was developed in 1975. One of the strengths of this algorithm is that it minimizes visual artifacts through an error-diffusion process; error-diffusion algorithms typically produce images that more closely represent the original than simpler dithering algorithms.
 
  - The algorithm uses error diffusion, in which the residual quantization error of a pixel is pushed onto its neighbors, in the following form.
 
