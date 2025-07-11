@@ -193,6 +193,9 @@ int main()
     };
 
     // Quantize image based on custom palette
+    // -------------------------------------------------------------
+    /* Change the color palette by modifying the colors in nShades array */
+    // -------------------------------------------------------------
     auto Quantize_RGB_CustomPalette = [](const Color pix) {
         Color nShades[5] = { BLACK, WHITE, YELLOW, MAGENTA, Color{ 0, 255, 255, 255 } }; // the last color is CYAN, for some reason it's giving an error using it directly
         float fClosest = INFINITY;
