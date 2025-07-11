@@ -7,7 +7,7 @@
 
  - [Dither is an intentionally applied form of noise used to randomize quantization error, preventing large-scale patterns such as color banding in images.](https://en.wikipedia.org/wiki/Dither) - from Wikipedia.
 
- - Dithering allows enhancing quality of quantized in post-processing during transmission and is used extensively in processing of both digital audio and video data.
+ - Dithering allows to enhance quality of quantized images in post-processing during transmission and is used extensively in processing of both digital audio and video data.
 
  - One of the earliest, and still one of the most popular, is the [Floyd–Steinberg dithering] (https://en.wikipedia.org/wiki/Dither#Algorithms), algorithm, which was developed in 1975. One of the strengths of this algorithm is that it minimizes visual artifacts through an error-diffusion process; error-diffusion algorithms typically produce images that more closely represent the original than simpler dithering algorithms.
 
