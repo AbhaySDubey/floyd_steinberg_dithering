@@ -13,7 +13,7 @@
 
  - The algorithm uses error diffusion, in which the residual quantization error of a pixel is pushed onto its neighbors, in the following form.
 
- ![Error Diffusion to neighboring pixels in Floyd-Steinberg Dithering](resources\erroDiffusionInFloydSteinberg.png "Error Diffusion to neighboring pixels in Floyd-Steinberg Dithering")
+ ![Error Diffusion to neighboring pixels in Floyd-Steinberg Dithering](.\resources\errorDiffusionInFloydSteinberg.png "Error Diffusion to neighboring pixels in Floyd-Steinberg Dithering")
 
  - To read more, refer to the corresponding Wikipedia pages for: [Dithering](https://en.wikipedia.org/wiki/Dither), [Floyd-Steinberg Dithering](https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering), [Quantization](https://en.wikipedia.org/wiki/Quantization)
  
